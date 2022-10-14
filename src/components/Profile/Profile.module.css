@@ -30,7 +30,7 @@
 .userlocation {
   font-size: 16px;
   text-align: center;
-  color: #88a3ae;
+  color: #95d492;
 }
 
 .usertag {
@@ -47,7 +47,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #f2f7f9;
+  background-color: #f2f7f0;
   border-top: 1px solid #e5e9f1;
 }
 .statsItem:not(:last-of-type) {
@@ -56,7 +56,7 @@
 .label {
   margin-bottom: 5px;
   font-size: 14px;
-  color: #96a3ae;
+  color: #92a3ae;
 }
 .quantity
 {
